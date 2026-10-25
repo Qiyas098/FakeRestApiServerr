@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ClientFakeApiTest/ClientFakeApiTest.csproj" />
+  <Project Path="FakeRestApiServer/FakeRestApiServer.csproj" />
+</Solution>
